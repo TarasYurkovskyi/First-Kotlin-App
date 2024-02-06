@@ -1,5 +1,5 @@
 fun main() {
-    println("Hello World!")
-    val name = readlnOrNull()
-    println("Hello, $name")
+    println("Enter your city…")
+    val city = readlnOrNull()
+    println("User lives in $city")
 }
